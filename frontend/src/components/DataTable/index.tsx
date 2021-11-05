@@ -1,5 +1,3 @@
-
-
 function Footer() {
   return (
     <div className="table-responsive">
@@ -91,7 +89,6 @@ function Footer() {
             <td>25</td>
             <td>15017.00</td>
           </tr>
-          
         </tbody>
       </table>
     </div>
