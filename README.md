@@ -1,4 +1,4 @@
-# Projeto-sds3: DSVendas
+# Descrição
 
 Aplicação Web para controle de vendas utilizando React e Spring boot com banco de dados relacional. 
 
