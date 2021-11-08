@@ -14,4 +14,4 @@ Aplicação Web para controle de vendas utilizando React e Spring boot com banco
 - Git
 
 ## Link
-[DSVendas](https://dsvendas-guilhermecandeia.netlify.app/dashboard)
+[DSVendas](https://dsvendas-guilhermecandeia.netlify.app)
